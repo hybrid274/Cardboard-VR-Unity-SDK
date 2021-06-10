@@ -1,3 +1,6 @@
+name: Test project
+on: [push]
+
 jobs:
   testRunnerInEditMode:
     name: Test edit mode 📝
